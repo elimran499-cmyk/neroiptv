@@ -24,7 +24,7 @@ export const Header: React.FC = () => {
       {/* Anti-scam notice bar */}
       <div className="bg-brand text-white text-[13px] py-2.5 px-4 text-center">
         <Lock className="w-3.5 h-3.5 inline-block mb-0.5 mr-1.5" />
-        Officiële website: <strong className="font-semibold">neroiptv.net</strong>
+        Officiële website: <strong className="font-semibold">nero-iptv.org</strong>
         <span className="mx-2 opacity-60">|</span>
         Let op nep-sites. Wij zijn de enige echte NeroIPTV.
       </div>
