@@ -1,0 +1,6 @@
+{
+  "name": "NeroIPTV Landing Page",
+  "description": "High-converting, modern IPTV subscription landing page featuring live channels, VOD movies, 4K streaming, pricing plans, device support, FAQ, and WhatsApp instant support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
