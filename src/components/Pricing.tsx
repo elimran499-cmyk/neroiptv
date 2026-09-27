@@ -93,6 +93,7 @@ export const Pricing: React.FC = () => {
                 </ul>
 
                 <a
+                  data-cta="order"
                   href={orderLink(plan.name, price)}
                   target="_blank"
                   rel="noopener noreferrer"
