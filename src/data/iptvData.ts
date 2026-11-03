@@ -1,6 +1,6 @@
 import { PricingPlan, FeatureItem, SupportedDevice, FAQItem } from '../types';
 
-export const WHATSAPP_NUMBER = '447414662070';
+export const WHATSAPP_NUMBER = '447832486269';
 
 /** Builds a wa.me link with a pre-filled message. */
 export const whatsappLink = (message: string) =>
